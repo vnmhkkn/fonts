@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'ALSRubl';
+  src: url('https://raw.githubusercontent.com/vnmhkkn/fonts/main/ALSRubl.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SAfonts';
+  src: url('https://raw.githubusercontent.com/vnmhkkn/fonts/main/SAfonts-Regular.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'BankGothic';
+  src: url('https://raw.githubusercontent.com/vnmhkkn/fonts/main/BankGothicRUSSMedium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PricedownRus';
+  src: url('https://raw.githubusercontent.com/vnmhkkn/fonts/main/PricedownRus.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
