@@ -25,3 +25,10 @@
   font-weight: 400;
   font-style: normal;
 }
+
+@font-face {
+  font-family: 'Michroma';
+  src: url('https://raw.githubusercontent.com/vnmhkkn/fonts/main/Michroma.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
